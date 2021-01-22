@@ -1,6 +1,8 @@
 clc
 clear all
 close all
+%Nathasya Veronica
+%NRP : 01111840000047
 %memasukkan nilai variabel yang diketahui
 b=0.0529;   %beta
 cd=0.5;     %dengan gesekan udara
